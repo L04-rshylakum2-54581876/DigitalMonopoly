@@ -77,7 +77,7 @@ void setup()
 void draw()
 {
   background(212, 232, 205);
-  fill(255,255,0);
+  fill(255, 255, 0);
   rect(width/2-200,height/2-100,400,100);
   rect(width/2-200,height/2+100,400,100);
   fill(0);
